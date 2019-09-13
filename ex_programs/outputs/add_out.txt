@@ -1,0 +1,12 @@
+[Fraction(3, 2)]
+72
+Factorization of IN n: [('2', 3), ('3', 2)]
+n this iteration 72
+nupd = [72, 108]
+n this iteration 108
+nupd = [72, 108, 162]
+n this iteration 162
+nupd = [72, 108, 162, 243]
+n this iteration 243
+All values of n: [72, 108, 162, 243]
+Factorization of OUT n: [('3', 5)]
